@@ -1,4 +1,4 @@
-# SimpleTouchSurgeryMobileApp
+# SimpleSurgeryProcedureApp
 
 Simple Android Application that parses a Json file with nested nodes and displays the content of the json filefrom a URl into a listview using Recyclerview.
 
